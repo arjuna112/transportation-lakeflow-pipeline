@@ -21,6 +21,9 @@ The project demonstrates real-world Databricks data engineering concepts includi
 - PySpark Transformations
 
 ---
+<img width="1200" height="640" alt="architecture" src="https://github.com/user-attachments/assets/0fd95b61-dfdb-4018-8a91-955bed10f99c" />
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -156,5 +159,9 @@ This project was built as part of my Databricks Data Engineering learning journe
 [Email Me](mailto:nagarjunat112@gmail.com)
 
 [GitHub](https://github.com/arjuna112)
+
+- 📧 **Email:** [nagarjunat112@gmail.com]
+- 🐙 **GitHub:** [arjuna112](https://github.com)
+
 
 If you found this project useful, feel free to ⭐ this repository.

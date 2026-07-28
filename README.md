@@ -41,26 +41,47 @@ The project demonstrates real-world Databricks data engineering concepts includi
 ```
 transportation-lakeflow-pipeline/
 │
-├── bronze/
-│   ├── ingestion.py
-│   └── autoloader.py
+├── 1.datasets/
+│   ├── city/
+│   │   └── city.csv
+│   │
+│   └── trips/
+│       ├── Full Load/
+│       │   └── Full Load.zip
+│       └── Incremental Load/
+│           ├── trip_export_2025-12-27.csv
+│           ├── trip_export_2025-12-28.csv
+│           ├── trip_export_2025-12-29.csv
+│           ├── trip_export_2025-12-30.csv
+│           └── trip_export_2025-12-31.csv
 │
-├── silver/
-│   ├── transformations.py
-│   ├── cleansing.py
-│   └── cdc.py
+├── 2.codes/
+│   ├── bronze/
+│   │   ├── city.py
+│   │   └── trips.py
+│   │
+│   ├── silver/
+│   │   ├── calendar.py
+│   │   ├── city.py
+│   │   └── trips.py
+│   │
+│   ├── gold/
+│   │   ├── trips_gold.sql
+│   │   ├── trips_chandigarh.sql
+│   │   ├── trips_coimbatore.sql
+│   │   ├── trips_indore.sql
+│   │   ├── trips_jaipur.sql
+│   │   ├── trips_kochi.sql
+│   │   ├── trips_lucknow.sql
+│   │   ├── trips_mysore.sql
+│   │   ├── trips_surat.sql
+│   │   ├── trips_vadodara.sql
+│   │   └── trips_visakhapatnam.sql
+│   │
+│   └── project_setup.py
 │
-├── gold/
-│   ├── business_metrics.py
-│   └── reporting.py
-│
-├── utilities/
-│   ├── helper.py
-│   └── config.py
-│
-├── notebooks/
-│
-├── images/
+├── 3.architecture/
+│   └── architecture.png
 │
 └── README.md
 ```

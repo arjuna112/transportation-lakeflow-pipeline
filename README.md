@@ -156,12 +156,12 @@ This project was built as part of my Databricks Data Engineering learning journe
 ## 👤 Author
 
 **Nagarjuna**
-[Email Me](mailto:nagarjunat112@gmail.com)
 
-[GitHub](https://github.com/arjuna112)
+Databricks Data Engineer | PySpark | Delta Lake | Lakeflow
 
-- 📧 **Email:** [nagarjunat112@gmail.com]
-- 🐙 **GitHub:** [arjuna112](https://github.com)
+📧 Email: [nagarjunat112@gmail.com](mailto:nagarjunat112@gmail.com)
+
+🔗 GitHub: [arjuna112](https://github.com/arjuna112)
 
 
 If you found this project useful, feel free to ⭐ this repository.
